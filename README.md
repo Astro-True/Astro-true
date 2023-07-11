@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Astro_00_</h1>
-<h3 align="center">Un desarrollador back-end de latinoamericana</h3>
+<h3 align="center">Un desarrollador back-end de latinoamerica</h3>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Astro_00_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Astro_TFV_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Astro_00_) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Astro_00_) 
